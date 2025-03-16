@@ -1,9 +1,12 @@
-.heading {
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    text-decoration: underline;
 }
- 
-.list {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: medium;
-    font-weight: 400;
+
+.recipe-list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
 }
